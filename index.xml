@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Andreas Mastrosavvas</title>
+    <link>https://amastrosavvas.github.io/</link>
+    <description>Recent content on Andreas Mastrosavvas</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://amastrosavvas.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Socio-Spatial Spillovers of All-Mail Voting: Evidence from North Carolina</title>
+      <link>https://amastrosavvas.github.io/research/workingpapers/wp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amastrosavvas.github.io/research/workingpapers/wp1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Networks and Brexit: Evidence from a Trade Shock</title>
+      <link>https://amastrosavvas.github.io/research/workingpapers/wp2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amastrosavvas.github.io/research/workingpapers/wp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Commuting Zones of England and Wales</title>
+      <link>https://amastrosavvas.github.io/research/data/d2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amastrosavvas.github.io/research/data/d2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonised Local Authorities of England and Wales</title>
+      <link>https://amastrosavvas.github.io/research/data/d1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amastrosavvas.github.io/research/data/d1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Geography of Political Homophily in the United States</title>
+      <link>https://amastrosavvas.github.io/research/workinprogress/wi1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://amastrosavvas.github.io/research/workinprogress/wi1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
