@@ -89,7 +89,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=JxCzbEwAAAAJ"
   email            : "MastrosavvasA@cardiff.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://profiles.cardiff.ac.uk/research-staff/mastrosavvasa"
+  uri              :
+  uni              : "https://profiles.cardiff.ac.uk/research-staff/mastrosavvasa"
   bitbucket        :
   codepen          :
   dribbble         :
