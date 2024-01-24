@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background-color: $lighter-gray; 
 
   a {
     display: block;
@@ -344,6 +344,7 @@
     }
   }
 }
+
 
 .nav__title {
   margin: 0;
