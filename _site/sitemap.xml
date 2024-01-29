@@ -18,4 +18,8 @@
 <url>
 <loc>http://localhost:4000/terms/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/files/pdf/amastrosavvas_cv.pdf</loc>
+<lastmod>2024-01-29T02:38:37-08:00</lastmod>
+</url>
 </urlset>
