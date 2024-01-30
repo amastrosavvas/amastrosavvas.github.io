@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-excerpt: 
+excerpt: "I am a quantitative social scientist with research interests in neighbourhood effects, social networks, public policy."
 author_profile: true
 redirect_from: 
   - /about/
