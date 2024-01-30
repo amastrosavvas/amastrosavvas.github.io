@@ -154,10 +154,11 @@
   /* custom button */
   
   &--custom {
-    font-size: 0.7em;
+    font-size: 0.8em;
     display: inline-block;
     margin-bottom: 1em;
-    padding: 0.125em 0.25em;
+    margin-top: 0.5em;
+    padding: 0.125em 0.65em;
     color: $link-color;
     text-align: center;
     text-decoration: none !important;
