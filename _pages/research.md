@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
-excerpt: 
+excerpt: "A list of recent research outputs, including papers, code, and data."
 author_profile: true
 
 ---
