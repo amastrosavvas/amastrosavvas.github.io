@@ -1,6 +1,8 @@
 ---
 permalink: /data/
 title: "Data"
-excerpt: "Data"
+excerpt: 
 author_profile: true
 ---
+
+{% include base_path %}
