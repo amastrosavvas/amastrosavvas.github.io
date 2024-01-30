@@ -25,3 +25,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 .Rproj.user
+
+# Other
+_site/
+_source/*_cache
