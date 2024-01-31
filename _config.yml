@@ -13,7 +13,7 @@ name                     : &name "Andreas Mastrosavvas"
 description              : &description "I am a quantitative social scientist with research interests in neighbourhood effects, social networks, and public policy."
 url                      : amastrosavvas.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amastrosavvas/amastrosavvas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
