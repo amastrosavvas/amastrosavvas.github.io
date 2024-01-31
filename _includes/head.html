@@ -4,6 +4,10 @@
 
 {% include seo.html %}
 
+<meta name="GPTBot" content="noindex,nofollow">
+<meta name="ia_archiver" content="noindex,nofollow">
+<meta name="archive.org_bot" content="noindex,nofollow">
+<meta name="ia_archiver-web.archive.org" content="noindex,nofollow">
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
