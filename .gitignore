@@ -4,7 +4,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -28,5 +29,5 @@ Temporary Items
 .Rhistory
 
 # Other
-_site/
+_site
 _source/*_cache
