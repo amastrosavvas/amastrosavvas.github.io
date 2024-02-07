@@ -27,9 +27,10 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    margin-top: 0.48em;
+    margin-bottom: 0.48em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0.48em 1em 0.48em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
