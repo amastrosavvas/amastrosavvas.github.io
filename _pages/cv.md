@@ -1,6 +1,6 @@
 ---
 title: "CV"
-excerpt: "A copy of my CV can be downloaded here."
+summary: "A copy of my CV can be downloaded here."
 permalink: /cv/
 author_profile: true
 ---
