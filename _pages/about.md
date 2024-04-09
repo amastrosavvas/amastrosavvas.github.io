@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-summary: "I am a quantitative social scientist with research interests in neighbourhood effects, social networks, and elections."
+summary: "I am a quantitative social scientist with research interests in neighbourhood effects, public policy, and elections."
 author_profile: true
 redirect_from: 
   - /about/
