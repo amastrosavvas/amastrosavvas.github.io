@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-## Working papers
+## Publications
 
 <summary>Social Networks and Brexit: Evidence from a Trade Shock</summary>
 <summary style="font-size: 0.9em;color:#7B8287;">Mastrosavvas, A. (2024). <em>Regional Science and Urban Economics</em>, 108: 104024.</summary>
