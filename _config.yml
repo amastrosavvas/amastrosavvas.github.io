@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Andreas Mastrosavvas"
 title_separator          : "-"
 name                     : &name "Andreas Mastrosavvas"
-description              : &description "I am a quantitative social scientist with research interests in neighbourhood effects, public policy, and political behaviour ."
+description              : &description "I am a quantitative social scientist with research interests in neighbourhood effects, public policy, and elections."
 url                      : https://amastrosavvas.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amastrosavvas/amastrosavvas.github.io"
