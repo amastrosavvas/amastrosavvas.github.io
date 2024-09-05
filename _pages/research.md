@@ -12,7 +12,7 @@ author_profile: true
 ## Publications
 
 <summary>Social Networks and Brexit: Evidence from a Trade Shock</summary>
-<summary style="font-size: 0.9em;color:#7B8287;">Mastrosavvas, A. (2024). <em>Regional Science and Urban Economics</em>, 108: 104024.</summary>
+<summary style="font-size: 0.9em;color:#7B8287;">Mastrosavvas, A. (2024). <em>Regional Science and Urban Economics</em>, 108, 104024.</summary>
 
 <details style = "margin-top: 0;"><summary  style="font-size: 0.9em;color:#7B8287; margin-top: 0; margin-bottom: 5px;"><b>Abstract</b> </summary>
 <blockquote style="font-size: 0.8em;color:#7B8287; margin-top: 0; margin-bottom: 5px; margin-left: 4px;"> 
@@ -22,13 +22,13 @@ Regional exposure to Chinese import competition has often been linked to support
 <br> 
 
 <summary>The Geography of Partisan Homophily in the 2020 US Presidential Election</summary>
-<summary style="font-size: 0.9em;color:#7B8287;"> Mastrosavvas, A. (2024). Forthcoming in: <em> Applied Geography.</em></summary>
+<summary style="font-size: 0.9em;color:#7B8287;">Mastrosavvas, A. (2024). <em>Applied Geography</em>, 171, 103371.</summary>
 <details><summary  style="font-size: 0.9em;color:#7B8287; margin-bottom:  5px;"><b>Abstract</b></summary>
 <blockquote style="font-size: 0.8em;color:#7B8287; margin-top: 0; margin-bottom:  5px; margin-left: 4px;">
 Partisan segregation in the United States is often interpreted as evidence of limited social interaction among out-partisans, or partisan homophily. In this paper, I draw on 2020 US presidential election results and data on the pairwise density of social ties between the populations of 22,537 zip code tabulation areas (ZCTA) to examine how different areas are socially connected to politically similar others. Using the local Moran index, I first identify clusters of ZCTAs where there is evidence of partisan homophily or heterophily. In a series of multinomial logistic regressions, I then also examine differences in the probability of each cluster across different settlement types and regions, and across areas with differences in the relative connectedness and geographic distance to others. I find that partisan homophily is the norm across areas, broadly tracking partisan segregation along the urban-rural continuum. However, the populations of Democratic-leaning areas, which are most likely to be in cities and suburbs, are on average likely to have more of their co-partisan social ties in relatively distant areas when compared to the populations of Republican-leaning areas. This highlights the prospect of partisan differences in the role of non-local context in local political outcomes.
 </blockquote>
 </details>
-[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4710779){: .btn--custom}
+[Paper](https://www.sciencedirect.com/science/article/pii/S0143622824001760){: .btn--custom}
 [Code](https://github.com/amastrosavvas/REPL-Geography-of-Partisan-Hom-US){: .btn--custom}
 
 ## Working papers
