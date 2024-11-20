@@ -44,7 +44,7 @@ All-mail voting has been introduced in several jurisdictions in the United State
 
 ## Work in progress
 
-<summary>Beyond Connectivity: The Role of Broadband Internet in Social and Economic Dynamics</summary>
+<summary>[Beyond Connectivity: The Role of Broadband Internet in Economic and Social Dynamics](https://www.dropbox.com/scl/fi/v7i0wbvw27r80ercozd2n/Beyond_Connectivity-241020.pdf?rlkey=urc0juy8kc37xfa8alvs5uj8d&st=e2ab1fqa&dl=0)</summary>
 <summary style="font-size: 0.9em;color:#7B8287;"> with Andrea Geraci, Marcella Nicolini, Tommaso Reggiani, and Fabio Sabatini</summary>
 
 
