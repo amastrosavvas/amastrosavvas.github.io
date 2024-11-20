@@ -44,8 +44,14 @@ All-mail voting has been introduced in several jurisdictions in the United State
 
 ## Work in progress
 
-<summary>[Beyond Connectivity: The Role of Broadband Internet in Economic and Social Dynamics](https://www.dropbox.com/scl/fi/v7i0wbvw27r80ercozd2n/Beyond_Connectivity-241020.pdf?rlkey=urc0juy8kc37xfa8alvs5uj8d&st=e2ab1fqa&dl=0)</summary>
+<summary>Beyond Connectivity: The Role of Broadband Internet in Economic and Social Dynamics</summary>
 <summary style="font-size: 0.9em;color:#7B8287;"> with Andrea Geraci, Marcella Nicolini, Tommaso Reggiani, and Fabio Sabatini</summary>
+<details><summary  style="font-size: 0.9em;color:#7B8287; margin-bottom:  5px;"><b>Abstract</b></summary>
+<blockquote style="font-size: 0.8em;color:#7B8287; margin-top: 0; margin-bottom: 5px; margin-left: 4px;">
+This project aims to investigate the behavioral, economic, and political impacts of broadband penetration. Our empirical analyses will focus on the UK, where we have gathered unique data on the topology of the broadband network. This data permits accurate measurement of the distance of individual residences, firms, and public institutions from the network node serving their area, thereby enabling us to determine the connection speed available at these locations. To establish causality, we will leverage technical features of the broadband network that created exogenous discontinuities in Internet access quality, resulting in a quasi-experimental setting. By matching our information on the network topology with various georeferenced data sources measured at the individual, firm, and local level (from postcode to LSOA), we aim to rigorously assess the causal impact of fast Internet availability on several outcomes, including labor supply, wages and gender inequalities, climate change awareness, sociability, and attitudes towards Brexit and "Bregret".
+</blockquote>
+</details>
+[Draft](https://www.dropbox.com/scl/fi/v7i0wbvw27r80ercozd2n/Beyond_Connectivity-241020.pdf?rlkey=urc0juy8kc37xfa8alvs5uj8d&st=e2ab1fqa&dl=0){: .btn--custom}
 
 
 ## Data
