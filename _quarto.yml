@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  # Pages to render
+  render:
+    - index.qmd
+    - 404.qmd
+  # Static assets
+  resources:
+    - images/**
+    - files/**
+
+lang: en-GB
+
+website:
+  title: "Andreas Mastrosavvas"
+  site-url: "https://amastrosavvas.github.io"
+  description: "Social data scientist at UCL and the UK Data Service, working on population data research and census origin-destination data infrastructure."
+  open-graph: true
+  search: false
+  navbar:
+    # Brand title hidden; only the theme toggle shows
+    title: false
+    pinned: false
+  page-footer:
+    center: |
+      &copy; 2026 Andreas Mastrosavvas &middot; Built with [Quarto](https://quarto.org/)
+
+format:
+  html:
+    theme:
+      dark: [darkly, custom.scss, dark.scss]
+      light: [cosmo, custom.scss, light.scss]
+    toc: false
+    include-in-header: head.html

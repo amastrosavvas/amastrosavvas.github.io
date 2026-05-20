@@ -1,0 +1,62 @@
+---
+title: "Andreas Mastrosavvas"
+subtitle: "Senior Research Fellow · UCL"
+description: "Social data scientist at UCL and the UK Data Service, working on population data research and infrastructure."
+# Redirect legacy URLs to this page
+aliases:
+  - /about/
+  - /about.html
+  - /research/
+  - /cv/
+  - /terms/
+  - /sitemap/
+about:
+  template: solana
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:a.mastrosavvas@ucl.ac.uk
+    - icon: building
+      text: UCL Profile
+      href: https://profiles.ucl.ac.uk/99917-andreas-mastrosavvas
+      rel: me
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=JxCzbEwAAAAJ
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0002-1354-5523
+      rel: me
+    - icon: github
+      text: GitHub
+      href: https://github.com/amastrosavvas
+      rel: me
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="canonical" href="https://amastrosavvas.github.io/">
+          <meta property="og:url" content="https://amastrosavvas.github.io/">
+---
+
+I am a Senior Research Fellow at the [Department of Information Studies](https://www.ucl.ac.uk/information-studies), [University College London (UCL)](https://www.ucl.ac.uk). My research examines how social and spatial interactions shape the outcomes of people and places, drawing on causal inference, spatial analysis, and large-scale population data. I am affiliated with the [UK Data Service](https://ukdataservice.ac.uk), where I work on census origin-destination data infrastructure. I have held earlier appointments at [UCL CeLSIUS](https://www.ucl.ac.uk/population-health-sciences/epidemiology-health-care/research/ucl-research-department-epidemiology-public-health/research/health-and-social-surveys-research-group/studies/celsius), the [Office for National Statistics](https://www.ons.gov.uk), and the [Welsh Government](https://www.gov.wales), and have broad experience with population data (and their metadata) spanning censuses, administrative records, and digital traces, and with their use in research and policy.
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Andreas Mastrosavvas",
+  "url": "https://amastrosavvas.github.io",
+  "jobTitle": "Senior Research Fellow",
+  "worksFor": { "@type": "Organization", "name": "University College London", "url": "https://www.ucl.ac.uk" },
+  "alumniOf": { "@type": "Organization", "name": "Cardiff University", "url": "https://www.cardiff.ac.uk" },
+  "sameAs": [
+    "https://orcid.org/0000-0002-1354-5523",
+    "https://scholar.google.com/citations?user=JxCzbEwAAAAJ",
+    "https://github.com/amastrosavvas",
+    "https://profiles.ucl.ac.uk/99917-andreas-mastrosavvas"
+  ]
+}
+</script>
+```

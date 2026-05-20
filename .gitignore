@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+
+# R / RStudio
+.Rproj.user
+*.Rproj
+.Rhistory
+
+# Quarto
+/.quarto/
+_site/
+*.quarto_ipynb
+
+# Excluded from the repo
+README.md
+
+**/*.quarto_ipynb

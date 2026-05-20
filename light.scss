@@ -1,0 +1,13 @@
+/*-- scss:defaults --*/
+// Accent blue with AA contrast on white
+$primary: #0d47a1 !default;
+$link-color: #0b4a9c !default;
+$link-hover-color: #08326d !default;
+
+/*-- scss:rules --*/
+// Dark toggle icon for the light theme
+.navbar .quarto-navigation-tool,
+.navbar .quarto-color-scheme-toggle {
+  color: #1a1a1a !important;
+  opacity: 1 !important;
+}

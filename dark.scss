@@ -1,0 +1,12 @@
+/*-- scss:defaults --*/
+// Accent blue (replaces darkly's default teal)
+$primary: #6ea8fe !default;
+$link-color: #6ea8fe !default;
+$link-hover-color: #9ec5fe !default;
+
+/*-- scss:rules --*/
+// Light toggle icon for the dark theme
+.navbar .quarto-navigation-tool,
+.navbar .quarto-color-scheme-toggle {
+  color: #e9ecef !important;
+}

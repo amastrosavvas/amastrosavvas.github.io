@@ -1,0 +1,100 @@
+/*-- scss:defaults --*/
+// System font stack (no webfont request)
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$headings-font-weight: 600 !default;
+// Drop the theme's bundled Google Fonts import
+$web-font-path: false !default;
+
+/*-- scss:rules --*/
+// Bigger tap targets for the link buttons
+.about-links .about-link {
+  padding: 0.5rem 0.85rem;
+  margin: 0.25rem;
+  border-radius: 0.4rem;
+}
+
+// Visible keyboard focus ring
+a:focus-visible,
+.btn:focus-visible,
+.about-link:focus-visible {
+  outline: 3px solid currentColor;
+  outline-offset: 2px;
+}
+
+// Respect reduced-motion
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+// Transparent navbar, fixed height
+.navbar {
+  background: transparent !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  min-height: 3.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+// Enlarge the theme toggle
+.navbar .quarto-color-scheme-toggle {
+  font-size: 1.5em;
+}
+
+// Reserve the scrollbar gutter on both sides
+html {
+  scrollbar-gutter: stable both-edges;
+}
+
+// Hide the on-page description (kept for the meta tag only)
+#title-block-header .description {
+  display: none;
+}
+
+// Left-align the name and subtitle
+#title-block-header .title,
+#title-block-header .subtitle {
+  text-align: left;
+}
+
+// Justified body text with hyphenation
+.about-contents p {
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+// Don't hyphenate links
+.about-contents a {
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
+// Centre the about block in the viewport
+.quarto-about-solana {
+  max-width: 40rem;
+  margin-inline: auto;
+  min-height: calc(100vh - 9rem);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+// Centre the links
+.quarto-about-solana .about-links {
+  justify-content: center;
+}
+
+// Left-align the bio text
+.quarto-about-solana .about-contents {
+  text-align: left;
+  margin-top: 0.5rem;
+}
