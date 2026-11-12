@@ -1,18 +1,18 @@
-# macOS
+# mac
 .DS_Store
 ._*
 
-# R / RStudio
+# R stuff
 .Rproj.user
 *.Rproj
 .Rhistory
 
-# Quarto
+# quarto
 /.quarto/
 _site/
 *.quarto_ipynb
 
-# Excluded from the repo
+# keep out of repo
 README.md
 
 **/*.quarto_ipynb
